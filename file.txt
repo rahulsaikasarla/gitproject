@@ -1,2 +1,3 @@
 first 100 lines
-second 1000 files
+second 1000 file
+third 10000 files
