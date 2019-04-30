@@ -1,4 +1,5 @@
 first 100 lines
 second 1000 file
 third 10000 file
-4th line 
+4th line
+5th line 
